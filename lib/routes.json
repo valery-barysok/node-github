@@ -6198,7 +6198,8 @@
                     "required": false,
                     "validation": "",
                     "description": "The integer ID of the last User that you’ve seen."
-                }
+                },
+                "$per_page": null
             },
             "description": "Get all users"
         },
